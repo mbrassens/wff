@@ -1,0 +1,14 @@
+<WatchFace width="450" height="450">
+  <Scene>
+    <DigitalClock x="125" y="150" width="200" height="100" alignment="CENTER">
+      <TimeText>
+        <Format>
+          <Part name="hour" format="%H" />
+          <Part name="separator" format=":" />
+          <Part name="minute" format="%M" />
+        </Format>
+        <Font size="80" />
+      </TimeText>
+    </DigitalClock>
+  </Scene>
+</WatchFace>

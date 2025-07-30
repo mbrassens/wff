@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "wff"
 include(":app")
- 
+include(":watchface")
